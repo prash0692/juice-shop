@@ -5,7 +5,7 @@ description: Instructions for writing automated tests (frontend, server, API, Cy
 
 # Skill: Writing Automated Tests
 
-This skill is the authoritative workflow for authoring automated tests in OWASP Juice Shop. Use it whenever you:
+This skill is the authoritative workflow for authoring automated tests in OWASP Juice Shop. Use it whenever you: 
 
 - add or change functionality and need to keep code coverage high, **or**
 - are asked to *close existing coverage gaps* / *increase coverage*, **or**
